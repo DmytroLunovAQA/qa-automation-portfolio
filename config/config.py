@@ -8,7 +8,7 @@ class Config:
     PETSTORE_BASE_URL = "https://petstore.swagger.io/v2"
 
     # UI URL
-    SAUCEDEMO_BASE_URL = "https://www.saucedem.com"
+    SAUCEDEMO_BASE_URL = "https://www.saucedemo.com"
 
     # Timeouts
     DEFAULT_TIMEOUT = 30000
